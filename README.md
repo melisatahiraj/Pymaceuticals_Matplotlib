@@ -1,4 +1,4 @@
-# matplotlib-challenge-5
+# Pymaceuticals Matplotlib
 
 ## Requirements
 
